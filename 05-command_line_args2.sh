@@ -1,10 +1,10 @@
 #!/bin/bash      
 #title           :
 #description     :
-#author		     :myLANDMARK.tech S Legah
+#author		     :
 #date            :08112012
 #version         :1.0    
-#Tel		     :437 215 2483
+#Tel		     :
 
 #if (( $# >= 3 ))
 #if [ $# -gt 3 ]
