@@ -1,13 +1,13 @@
 #!/bin/bash      
 #title           :
 #description     :
-#author		     :myLANDMARK.tech S Legah
+#author		     :Honeywelltech
 #date            :08112012
 #version         :1.0    
-#Tel		     :437 215 2483
+#Tel		     :
 
-name="Simon Legah"
-id=08112012
+name="Honey Oke"
+
 
 echo "The name varibale value is: "$name
 echo "The id variable value is: "$id
